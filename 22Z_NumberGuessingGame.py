@@ -1,5 +1,11 @@
-#**************** Your Task *************
-# This code is for studying tkinter.
+"""
+TITLE: Number Guessing Game with GUI by tkinter
+DESCRIPTION: Given a Number Guessing Game code, I added GUI to it using tkinter.
+LANGUAGE: Python 3
+DATE: March 16, 2025
+UPDATED: 
+WRITTEN BY: Mitsuhiro Tagata
+"""
 
 import random
 import tkinter as tk
